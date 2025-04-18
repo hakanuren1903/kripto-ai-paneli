@@ -1,0 +1,1 @@
+# Teknik analiz route'ları
