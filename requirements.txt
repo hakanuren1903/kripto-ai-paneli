@@ -1,6 +1,8 @@
 streamlit
 pandas
 numpy
-plotly
-fitz
-sqlite3
+matplotlib
+yfinance
+scikit-learn
+ta
+requests
