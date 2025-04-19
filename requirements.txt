@@ -1,8 +1,6 @@
 streamlit
-pandas
-numpy
-matplotlib
 yfinance
+plotly
+numpy
 scikit-learn
-ta
-requests
+ta==0.10.2
